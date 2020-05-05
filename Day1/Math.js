@@ -1,0 +1,12 @@
+console.log(Math.PI);
+console.log(Math.abs(500));
+console.log(Math.sin(500));
+console.log(Math.cos(400));
+console.log(Math.tan(300));
+console.log(Math.pow(10,60));
+console.log(Math.round(202.54));
+console.log(Math.floor(202.54));
+console.log(Math.ceil(202.54));
+console.log(Math.cbrt(202.54));
+console.log(Math.sqrt(202.54));
+console.log(Math.random());
